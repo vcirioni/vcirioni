@@ -1,10 +1,37 @@
-- 👋 Ciao, sono  Vittorio Cirioni docente dell'IIS Janello Torriani di CREMONA @vcirioni
-- 👀 Sono interessato a tutte le tecnologie STEM
-- 🌱 Al momento sto imparando ad usare a scuola Git e GitHub
-- 💞️ Sono interessato a ricevere consigli su come introdurre GitHub nell'attivita' didattica
-- 📫 La mia email è cirioni.vittorio@iistorriani.it
+# Ciao! 👋
 
-<!---
-vcirioni/vcirioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Questo è il mio portfolio tecnico su GitHub.
+
+## 👤 Qualcosa su di me
+
+Sto imparando a usare GitHub come ambiente di lavoro e documentazione.
+
+## ❤️ Le mie passioni
+
+- Informatica
+- Tecnologie STEM
+- Didattica digitale
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- GitHub
+- Git
+- Visual Studio Code
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+Come organizzare un'attività didattica tecnica.
+
+## 🔍 Cosa mi piacerebbe imparare
+
+Usare meglio GitHub per collaborare e documentare progetti.
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+Un portfolio tecnico completo.
+
+## 🎯 Guardando al futuro
+
+Vorrei usare GitHub come ambiente stabile per raccogliere progetti ed esperienze.
